@@ -17,7 +17,8 @@ void solve(){
     for(int i=1;i<=n;i++){
         pre[i]=pre[i-1]+a[i-1];
     }
-    int q;cin>>q;
+    int q;
+    cin>>q;
     while(q--){
         int l,r;cin>>l>>r;
         cout<<pre[r]-pre[l-1]<<nl;
