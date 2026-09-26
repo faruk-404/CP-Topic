@@ -42,7 +42,7 @@ void build(string &s){
     pre[0].second=(s[0]*pw[0].second)%mod2;
     for(int i=1;i<(int)s.size();i++){
         pre[i].first=(pre[i-1].first+(s[i]*pw[i].first)%mod1)%mod1;
-        pre[i].second=(pre[i-1].second+(s[1]*pw[i].second)%mod2)%mod2;
+        pre[i].second=(pre[i-1].second+(s[i]*pw[i].second)%mod2)%mod2;
     }
 }
 
@@ -61,7 +61,7 @@ pair<int,int> rangeLRHash(int l,int r){
 
     hs.first=(hs.first-pre[l-1].first+mod1)%mod1;
     hs.second=(hs.second-pre[l-1].second+mod2)%mod2;
-    
+
     hs.first=(hs.first*ipw[l].first)%mod1;
     hs.second=(hs.second*ipw[l].second)%mod2;
     return hs;
