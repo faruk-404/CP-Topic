@@ -1,3 +1,4 @@
+Google Docs Link: https://docs.google.com/document/d/1BxEoibBRP21LRqqMfV0Rh23gI36HoZ-peyXvFQZz4oc/edit?usp=sharing  
 Level 1: Basics & Fundamentals   
 Level 2: Elementary Techniques   
 Level 3: Number Theory & Mathematics   
@@ -27,7 +28,6 @@ Level 4: Graph Theory
 
 * Grid DP  
 * Bitmask DP  
-    
 * Digit DP  
 * DP on Trees  
 * Interval / Range DP  
@@ -45,51 +45,7 @@ Level 4: Graph Theory
 
 ### **3\. Advanced DP Types**
 
-1. Grid DP  
-2. **Bitmask DP**
-
-/\*  
-bits and subsets  
-1\.  [https://cses.fi/problemset/task/1623](https://cses.fi/problemset/task/1623)    
-2\. [https://cses.fi/problemset/task/2205](https://cses.fi/problemset/task/2205)  
-3\. [https://cses.fi/problemset/task/1624](https://cses.fi/problemset/task/1624)
-
-bitmask DP  
-4\.  [https://atcoder.jp/contests/dp/tasks/dp\_o](https://atcoder.jp/contests/dp/tasks/dp_o)  
-5\.  [https://cses.fi/problemset/task/1653](https://cses.fi/problemset/task/1653)  
-6\.  [https://cses.fi/problemset/task/1690](https://cses.fi/problemset/task/1690)  
-7\.  [https://codeforces.com/problemset/problem/580/D](https://codeforces.com/problemset/problem/580/D)  
-8\.  [https://atcoder.jp/contests/abc180/tasks/abc180\_e](https://atcoder.jp/contests/abc180/tasks/abc180_e)  
-9\.  [https://atcoder.jp/contests/abc142/tasks/abc142\_e](https://atcoder.jp/contests/abc142/tasks/abc142_e)  
-10\. [https://codeforces.com/problemset/problem/16/E](https://codeforces.com/problemset/problem/16/E)  
-11\. [https://codeforces.com/problemset/problem/11/D](https://codeforces.com/problemset/problem/11/D)    
-12\. [https://codeforces.com/problemset/problem/8/C](https://codeforces.com/problemset/problem/8/C)
-
-Intermediate: 3^N, primes mask, SOS  
-13\. [https://atcoder.jp/contests/dp/tasks/dp\_u](https://atcoder.jp/contests/dp/tasks/dp_u)  
-14\. [https://codeforces.com/problemset/problem/453/B](https://codeforces.com/problemset/problem/453/B)  
-15\. [https://codeforces.com/problemset/problem/327/E](https://codeforces.com/problemset/problem/327/E)  
-16\. [https://codeforces.com/problemset/problem/165/E](https://codeforces.com/problemset/problem/165/E)  
-17\. [https://cses.fi/problemset/task/2181](https://cses.fi/problemset/task/2181)
-
-Advanced  
-18\. [https://codeforces.com/problemset/problem/1208/F](https://codeforces.com/problemset/problem/1208/F)
-
-LeetCode (good for extra practice)  
-19\. [https://leetcode.com/problems/beautiful-arrangement/](https://leetcode.com/problems/beautiful-arrangement/)  
-20\. [https://leetcode.com/problems/can-i-win/](https://leetcode.com/problems/can-i-win/)  
-21\. [https://leetcode.com/problems/partition-to-k-equal-sum-subsets/](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)  
-22\. [https://leetcode.com/problems/shortest-path-visiting-all-nodes/](https://leetcode.com/problems/shortest-path-visiting-all-nodes/)  
-23\. [https://leetcode.com/problems/smallest-sufficient-team/](https://leetcode.com/problems/smallest-sufficient-team/)  
-24\. [https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/](https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/)
-
-\*/
-
-3. Digit DP  
-4. DP on Trees  
-5. Interval / Range DP  
-6. Sum over Subsets (SOS) DP
-
+**2\. Bitmask DP**  
 bits and subsets: 
 
 1. [Apple Division](https://cses.fi/problemset/task/1623) ✅  
