@@ -1,4 +1,4 @@
-Google Docs Link: https://docs.google.com/document/d/1BxEoibBRP21LRqqMfV0Rh23gI36HoZ-peyXvFQZz4oc/edit?usp=sharing  
+Google Docs Link: https\://docs.google.com/document/d/1BxEoibBRP21LRqqMfV0Rh23gI36HoZ-peyXvFQZz4oc/edit?usp=sharing  
 Level 1: Basics & Fundamentals   
 Level 2: Elementary Techniques   
 Level 3: Number Theory & Mathematics   
@@ -50,16 +50,16 @@ bits and subsets:
 
 1. [Apple Division](https://cses.fi/problemset/task/1623) ✅  
 2. [Problem \- 1097B \- Codeforces](https://codeforces.com/problemset/problem/1097/B) ✅  
-3. [Gray Code](https://cses.fi/problemset/task/2205)  
+3. [Gray Code](https://cses.fi/problemset/task/2205)  ✅  
 4. [Chessboard and Queens](https://cses.fi/problemset/task/1624)
 
 bitmask DP:
 
-1.  [https://atcoder.jp/contests/dp/tasks/dp\_o](https://atcoder.jp/contests/dp/tasks/dp_o)  
-2.  [https://cses.fi/problemset/task/1653](https://cses.fi/problemset/task/1653)  
+1.  [https\://atcoder.jp/contests/dp/tasks/dp\_o](https://atcoder.jp/contests/dp/tasks/dp_o)  
+2.  [https\://cses.fi/problemset/task/1653](https://cses.fi/problemset/task/1653)  
 3. [Hamiltonian Flights](https://cses.fi/problemset/task/1690)  
 4. [Problem \- 580D \- Codeforces](https://codeforces.com/problemset/problem/580/D)  
-5.  [https://atcoder.jp/contests/abc180/tasks/abc180\_e](https://atcoder.jp/contests/abc180/tasks/abc180_e)  
+5.  [https\://atcoder.jp/contests/abc180/tasks/abc180\_e](https://atcoder.jp/contests/abc180/tasks/abc180_e)  
 6. [E \- Get Everything](https://atcoder.jp/contests/abc142/tasks/abc142_e)  
 7. [Problem \- 16E \- Codeforces](https://codeforces.com/problemset/problem/16/E)  
 8. [Problem \- 11D \- Codeforces](https://codeforces.com/problemset/problem/11/D)    
@@ -68,7 +68,7 @@ bitmask DP:
 Intermediate: 3^N, primes mask, SOS:
 
 1. [U \- Grouping](https://atcoder.jp/contests/dp/tasks/dp_u)  
-2.  [https://codeforces.com/problemset/problem/453/B](https://codeforces.com/problemset/problem/453/B)  
+2.  [https\://codeforces.com/problemset/problem/453/B](https://codeforces.com/problemset/problem/453/B)  
 3. [Problem \- 327E \- Codeforces](https://codeforces.com/problemset/problem/327/E)  
 4. [Problem \- 165E \- Codeforces](https://codeforces.com/problemset/problem/165/E)  
 5. [CSES \- Counting Tilings](https://cses.fi/problemset/task/2181)
